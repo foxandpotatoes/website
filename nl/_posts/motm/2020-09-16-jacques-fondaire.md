@@ -9,6 +9,8 @@ lang: nl
 
 *Vertaald uit het Frans door Pierre Parmentier*
 
+Jacques Fondaire username: [`jfonda`](https://www.openstreetmap.org/user/jfonda)
+
 ## Jacques, wilt u zich even voorstellen aan onze lezers?
 
 Op 12-jarige leeftijd leerde ik NGI-kaarten lezen en gebruiken met een Recta-kompas, waardoor ik me bijna overal kon bewegen. Vandaag ben ik met pensioen en ben ik geïnteresseerd in toeristische projecten. Ik woon in Athus, een kleine Belgische stad op 500 m van Luxemburg en 2 km van Frankrijk.
