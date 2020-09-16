@@ -23,13 +23,17 @@ Five years ago, I discovered OpenStreetMap through the OsmAnd application instal
 
 I always use the latest version of JOSM under Windows 10 for encoding and a smartphone capable of receiving signals from Galileo for field use.
 
-## How do you map? In which area ?
+## How do you map? 
+
+For changes in my close neighbourhood, I map by notes or by memory. Once in front of the editor on the computer and if the task is more complex, I use as much data as possible to cross-check the information: aerial imagery, pictures, the land register.
+
+## In which area are you mapping?
 
 The majority of my encodings are located in the south of the Belgian province of Luxembourg. I try to make and encourage encodings that are as structured and complete as possible: all the houses in a village, all the walks in a tourist association, all the restaurants in a locality, for example. I try to avoid mapping at random as much as possible, which doesn't prevent me from correcting errors wherever they occur.
 
 ## What are you mapping? Do you have a specialization?
 
-I have started to map all the buildings in the town of Aubange. I added economic activities (shops, restaurants, offices, doctors, banks, accommodation, leisure facilities, etc.), thanks to a cooperation with the Agence de Développement local (Local Development Agency). I have added building elsewhere, without adding much activity, for lack of information, but I am trying to create contacts to obtain them.
+I have started to map all the buildings in the town of Aubange. I added economic activities (shops, restaurants, offices, doctors, banks, accommodation, leisure facilities, etc.), thanks to a cooperation with the Agence de Développement Local (Local Development Agency). I have added building elsewhere, without adding much activity, for lack of information, but I am trying to create contacts to obtain them.
 
 ## What is your biggest achievement as a mapper?
 
